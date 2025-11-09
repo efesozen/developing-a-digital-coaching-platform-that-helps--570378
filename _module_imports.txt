@@ -1,0 +1,11 @@
+// AUTO-GENERATED MODULES - Add these to app.module.ts imports array
+import { CoachsModule } from './modules/coaches/coaches.module';
+import { SessionsModule } from './modules/sessions/sessions.module';
+import { FeedbacksModule } from './modules/feedbacks/feedbacks.module';
+import { GoalsModule } from './modules/goals/goals.module';
+
+// Add to @Module imports array:
+// CoachsModule,
+// SessionsModule,
+// FeedbacksModule,
+// GoalsModule
